@@ -1,2 +1,1 @@
-# Precourse1
-Este es una prueba del precourse
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde Github a mi pc
